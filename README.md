@@ -1,7 +1,7 @@
 # Szakdolgozat
 
 Csapattagok:
-  Németh Kristóf Ármin
-  Tóth Bálint
+  Németh Kristóf Ármin, 
+  Tóth Bálint, 
   Tuller-Nagy István
   

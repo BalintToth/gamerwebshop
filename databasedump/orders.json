@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "644a5959a766fb3601446233"
+  },
+  "userId": "6448f4f3dce75e1c45c48bed",
+  "products": [
+    {
+      "productId": "64478cc92831980875f3439c",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a5959a766fb3601446234"
+      }
+    }
+  ],
+  "amount": 15999,
+  "address": {
+    "city": "Szorgalmas",
+    "country": "Hungary",
+    "line1": "fsdfsd",
+    "line2": null,
+    "postal_code": "4444",
+    "state": "SZ"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682594137364"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682594137364"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "644a59c9a766fb3601446238"
+  },
+  "userId": "6448f4f3dce75e1c45c48bed",
+  "products": [
+    {
+      "productId": "64478cc92831980875f3439d",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644a59c9a766fb3601446239"
+      }
+    }
+  ],
+  "amount": 11999,
+  "address": {
+    "city": "Szorgalmas",
+    "country": "Hungary",
+    "line1": "fdafasdf",
+    "line2": null,
+    "postal_code": "4444",
+    "state": "SZ"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682594249697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682594249697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "644aa563e70f17659dec53e1"
+  },
+  "userId": "644aa4dee70f17659dec53db",
+  "products": [
+    {
+      "productId": "64478cc92831980875f3439b",
+      "quantity": 1,
+      "_id": {
+        "$oid": "644aa563e70f17659dec53e2"
+      }
+    }
+  ],
+  "amount": 12999,
+  "address": {
+    "city": "Győr",
+    "country": "Hungary",
+    "line1": "asd",
+    "line2": null,
+    "postal_code": "1010",
+    "state": null
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682613603133"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682613603133"
+    }
+  }
+}]

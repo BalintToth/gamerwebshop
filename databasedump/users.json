@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "640b88d40e899f107f78575a"
+  },
+  "username": "buykoupdated",
+  "email": "tobal.971.spam@gmail.com",
+  "password": "U2FsdGVkX19PuuFbtDfCD7SberF+AqwRgzjBrYSUJoo=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678477524630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678535894882"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640c608b65fc34580b8e5c6b"
+  },
+  "username": "arcsi",
+  "email": "arcsika2023@gmail.com",
+  "password": "U2FsdGVkX18h5nqwH5Yb7DlzUzXHPq4nVgLk63r8fjQ=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676113547477"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676113547477"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640ca677d595d95f58195b42"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "U2FsdGVkX18DO1h5tvMNBAZb6KLOQnbK3Gs4D48S7PA=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678550647672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678550647672"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64482c84d0caac9eed781cb1"
+  },
+  "username": "hiplex",
+  "email": "hiplex@gmail.com",
+  "password": "U2FsdGVkX1+en94SKhWTElW4SazFY2EG1o1tWWYxD8s=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682451588056"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682451588056"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6448f4f3dce75e1c45c48bed"
+  },
+  "username": "test456",
+  "email": "test@gmail.com",
+  "password": "U2FsdGVkX1/y9g+kwB2S3GA5Bo/hgR7bnbNSIXkmnUE=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682502899853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682506801933"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "644aa4dee70f17659dec53db"
+  },
+  "username": "mama",
+  "email": "tsandorne@freemail.hu",
+  "password": "U2FsdGVkX1/T0GDNMID7OprupgPk8c8rEnfxIlk08Bc=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682613470123"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682613470123"
+    }
+  }
+}]

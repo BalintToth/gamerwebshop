@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "640dac8c5b91a82821dd1828"
+  },
+  "userId": "640b88d40e899f107f78575a",
+  "products": [
+    {
+      "productId": "11b",
+      "quantity": 2,
+      "_id": {
+        "$oid": "640dac8c5b91a82821dd1829"
+      }
+    },
+    {
+      "productId": "4e",
+      "quantity": 5,
+      "_id": {
+        "$oid": "640dac8c5b91a82821dd182a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678617740584"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678617740584"
+    }
+  }
+}]

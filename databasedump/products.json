@@ -1,0 +1,321 @@
+[{
+  "_id": {
+    "$oid": "64478cc92831980875f3439b"
+  },
+  "title": "SteelSeries Arctis 5",
+  "description": "Surround sound RGB gaming headset with the best mic and stunning hearing!",
+  "img": "https://media.steelseriescdn.com/thumbs/catalogue/products/00964-arctis-5-black-2019-edition/2d05914f40f34ebe8accceeffe9d2f41.png.1200x627_q100_crop-fit_optimize.png",
+  "categories": [
+    "headset",
+    "peripherals"
+  ],
+  "price": 129.99,
+  "brand": "SteelSeries",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f3439c"
+  },
+  "title": "Logitech GPRO X Headset",
+  "description": "Designed with and for pros. Next-gen 7.1 surround sound and PRO-G 50 mm drivers ensure premium gaming audio.",
+  "img": "https://resource.logitech.com/content/dam/gaming/en/products/pro-x/pro-headset-gallery-1.png",
+  "categories": [
+    "headset",
+    "peripherals"
+  ],
+  "price": 159.99,
+  "brand": "Logitech",
+  "color": [
+    "blue",
+    "white",
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f3439d"
+  },
+  "title": "Razer Huntsman mini",
+  "description": "60% gaming keyboard with Razer™ Optical Switch",
+  "img": "https://www.bestmarkt.hu/img/o/652213-7kbb3.png",
+  "categories": [
+    "keyboard",
+    "peripherals"
+  ],
+  "price": 119.99,
+  "brand": "Razer",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f3439e"
+  },
+  "title": "SteelSeries Apex Pro TKL",
+  "description": "The next leap in mechanical keyboards. With the World's fastest switch.",
+  "img": "https://media.steelseriescdn.com/thumbs/catalog/items/64865/2e6a305c2d184e37901724681b50552d.png.1400x1120_q100_crop-fit_optimize.png",
+  "categories": [
+    "keyboard",
+    "peripherals"
+  ],
+  "price": 209.99,
+  "brand": "SteelSeries",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f3439f"
+  },
+  "title": "Logitech GPRO Superlight",
+  "description": "Less than 63 grams. Advanced low-latency LIGHTSPEED wireless. Sub-micron precision with HERO 25K sensor. Remove all obstacles with our lightest and fastest PRO mouse ever.",
+  "img": "https://resource.logitech.com/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-gallery-1.png",
+  "categories": [
+    "mouse",
+    "peripherals"
+  ],
+  "price": 149.99,
+  "brand": "Logitech",
+  "color": [
+    "black",
+    "white",
+    "red"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a0"
+  },
+  "title": "Cooler Master RGB Hard Gaming",
+  "description": "The RGB Hard Gaming Mousepad is a vibrant, durable mousepad built for pro-level gaming. It features a low-friction surface optimized for optical and laser mice sensors.",
+  "img": "https://cdn.coolermaster.com/media/assets/1127/rgbmousepad_001-zoom.png",
+  "categories": [
+    "mousepad",
+    "peripherals"
+  ],
+  "price": 39.99,
+  "brand": "Cooler Master",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a1"
+  },
+  "title": "Logitech G640",
+  "description": "Large size, 400 x 460 mm, for more space and mouse movement. Rubber base stays in place for intense gaming. Surface texture is optimized for Logitech G mice and peak gaming performance.",
+  "img": "https://resource.logitech.com/content/dam/gaming/en/products/g640/g640-gallery-1-new.png",
+  "categories": [
+    "mousepad",
+    "peripherals"
+  ],
+  "price": 41.99,
+  "brand": "Logitech",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a2"
+  },
+  "title": "Logitech GPRO X Keyboard",
+  "description": "The tournament-proven PRO design, now with your choice of swappable pro-grade GX mechanical switches: Clicky, Tactile and Linear. Built to win in collaboration with the world’s top esports athletes.",
+  "img": "https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png",
+  "categories": [
+    "keyboard",
+    "peripherals"
+  ],
+  "price": 149.99,
+  "brand": "Logitech",
+  "color": [
+    "black",
+    "blue"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a3"
+  },
+  "title": "SteelSeries Rival 650",
+  "description": "The first true performance wireless heavy mouse with the fastest charging ever.",
+  "img": "https://media.steelseriescdn.com/thumbs/filer_public/79/38/793810c0-be38-4840-ab60-0657e7ecd973/purchase-gallery-650wl-top.png__1920x1080_crop-fit_optimize_subsampling-2.png",
+  "categories": [
+    "mouse",
+    "peripherals"
+  ],
+  "price": 129.99,
+  "brand": "SteelSeries",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a4"
+  },
+  "title": "SteelSeries QCK Heavy",
+  "description": "The most used hard gaming cloth mousepad.",
+  "img": "https://media.steelseriescdn.com/thumbs/filer_public/d8/47/d8478104-9d81-4c14-854c-66984026dc35/1200x_buy_qck-hard_m_02-fix.png__1920x1080_crop-fit_optimize_subsampling-2.png",
+  "categories": [
+    "mousepad",
+    "peripherals"
+  ],
+  "price": 29.99,
+  "brand": "SteelSeries",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a5"
+  },
+  "title": "Razer Viper mini",
+  "description": "ULTRA-LIGHT. ULTRA-FAST. Born to push the very limits of ultra-lightweight gaming, the Razer Viper Mini takes up a smaller form that remains just as big in performance.",
+  "img": "https://prosettings.net/wp-content/uploads/2020/03/razer-viper-mini-transparent-background-proper.png",
+  "categories": [
+    "mouse",
+    "peripherals"
+  ],
+  "price": 144.99,
+  "brand": "Razer",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a6"
+  },
+  "title": "Razer Kraken",
+  "description": "Equipped with 7.1 surround sound software so you can experience accurate positional audio when gaming—you'll be able to pick up the direction of where the action is coming from so you're ready to pounce into a gunfight.",
+  "img": "https://assets.mmsrg.com/isr/166325/c1/-/pixelboxx-mss-82100951/mobile_786_587_png/RAZER-Kraken-X-Lite-Vezet%C3%A9kes-Gaming-Headset--PC--PS4--Xbox-One-%28RZ04-02950100-R381%29",
+  "categories": [
+    "headset",
+    "peripherals"
+  ],
+  "price": 49.99,
+  "brand": "Razer",
+  "color": [
+    "black",
+    "white",
+    "blue",
+    "red"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a7"
+  },
+  "title": "Razer Sphex V2 Hardpad",
+  "description": "Gain the winning edge with the Razer Sphex V2—the latest iteration of our thinnest hard gaming mouse mat, now 20% thinner and available in a larger size.",
+  "img": "https://pecsipc.hu/storage/products/126898/razer-sphex-v2-egerpad-rgb.png",
+  "categories": [
+    "mousepad",
+    "peripherals"
+  ],
+  "price": 19.99,
+  "brand": "Razer",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343a9"
+  },
+  "title": "Xtrfy K4 TKL RGB",
+  "description": "Tenkeyless mechanical gaming keyboard with perfect xtrfy switches made for gamers.",
+  "img": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_98400406/mobile_786_587_png/XTRFY-K4-RGB-TKL---Gaming-Tastatur--Schwarz",
+  "categories": [
+    "keyboard",
+    "peripherals"
+  ],
+  "price": 99.99,
+  "brand": "Xtrfy",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343aa"
+  },
+  "title": "Xtrfy H2 Pro",
+  "description": "The H2 is a gaming headset ready for competition. Extra large over-ear cups. Thick memory foam cushions. Durable, low-weight construction.",
+  "img": "https://cdn.shopify.com/s/files/1/0172/4173/5222/products/226142658_2048x2048.png?v=1666916167",
+  "categories": [
+    "headset",
+    "peripherals"
+  ],
+  "price": 93.49,
+  "brand": "Xtrfy",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343ab"
+  },
+  "title": "Cooler Master MM711",
+  "description": "The MM711 is a truly innovative mouse that does more with so much less.",
+  "img": "https://newgendistribution.com/wp-content/uploads/2021/06/MM711-Black-Matte-1-kvadrat.png",
+  "categories": [
+    "mouse",
+    "peripherals"
+  ],
+  "price": 67.49,
+  "brand": "Cooler Master",
+  "color": [
+    "black",
+    "white"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343ac"
+  },
+  "title": "Cooler Master MH650",
+  "description": "The MH650 Gaming Headset provides an immersive experience in a portable package ideal for console and PC gamers.",
+  "img": "https://newgendistribution.com/wp-content/uploads/2020/09/MH650-1.png",
+  "categories": [
+    "headset",
+    "peripherals"
+  ],
+  "price": 179.99,
+  "brand": "Cooler Master",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "64478cc92831980875f343ad"
+  },
+  "title": "Cooler Master Masterkeys Pro",
+  "description": "Elevate your game with the MasterKeys line of gaming keyboards and focus on what really matters: no-nonsense performance in a straightforward package.",
+  "img": "https://focuscamera.hu/img/o/c8172bf5353bfef83c633adbb457204c.png",
+  "categories": [
+    "keyboard",
+    "peripherals"
+  ],
+  "price": 179.99,
+  "brand": "Cooler Master",
+  "color": [
+    "black"
+  ],
+  "inStock": true
+}]
